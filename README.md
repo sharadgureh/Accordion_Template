@@ -13,8 +13,9 @@ This project is a dynamic accordion component where the content is generated fro
 
 ## Technologies Used
 
-- **HTML/CSS**: For the accordion layout and styling.
 - **JavaScript**: For handling dynamic content rendering based on JSON data.
+- **React**: javaScript library to make Components base UI,
+- **TailwindCss**
 
 ## How It Works
 
