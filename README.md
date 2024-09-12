@@ -19,7 +19,7 @@ This project is a dynamic accordion component where the content is generated fro
 
 ## How It Works
 
-1. **JSON Data Format**: The accordion's content is determined by a JSON file that you upload. Each section in the accordion corresponds to a "title" and "content" pair in the JSON file.
+1. **JSON Data Format**: The accordion's content is determined by a JSON file that you upload. Each section in the accordion corresponds to a "title" and "content" pair in the data.js .
 
 2. **File Structure**:
    - `data.js`: The JSON file that stores all the data for the accordion.
